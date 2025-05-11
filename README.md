@@ -91,24 +91,6 @@ var skills = new List<string>
 
 <br>
 
-## Setup
-
-<br>
-
-> To run any of these projects, follow these steps:
-
-```
-1. Clone repository: 
-   git clone https://github.com/ferdikarakusss/[repository-name]
-
-2. Open in Visual Studio or your preferred IDE
-
-3. Restore packages and build solution
-
-4. Run the application
-```
-
-<br>
 
 ## About
 
